@@ -21,10 +21,6 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
-		},
-		{
-			"Name": "WindowsDualsense_ds5w",
-			"Enabled": true
 		}
 	]
 }
